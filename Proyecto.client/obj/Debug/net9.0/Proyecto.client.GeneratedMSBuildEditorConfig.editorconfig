@@ -40,6 +40,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/ASUS/Source/Repos/ProyectoAgiles/Proyecto.client/Pages/Inicio.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5pY2lvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ASUS/Source/Repos/ProyectoAgiles/Proyecto.client/Pages/LoginPage.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5QYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 

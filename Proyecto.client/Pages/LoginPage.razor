@@ -1,4 +1,4 @@
-﻿@page "/login"
+﻿@page "/"
 @layout LoginLayout
 
 @using System.ComponentModel.DataAnnotations
@@ -42,7 +42,7 @@
 
             if (response.IsSuccessStatusCode)
             {
-                Navigation.NavigateTo("/");
+                Navigation.NavigateTo("/home");
             }
             else
             {
