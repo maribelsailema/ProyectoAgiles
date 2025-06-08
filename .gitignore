@@ -1,0 +1,79 @@
+# Carpetas de output de compilación
+[Bb]in/
+[Oo]bj/
+
+# Paquetes NuGet y archivos de caché
+*.nupkg
+!packages.config
+packages/
+.nuget/
+*.cache
+*.hash
+*.lock.json
+*.metadata
+*.json
+
+# Archivos de Visual Studio y IDE
+.vs/
+*.suo
+*.user
+*.resharper
+*.resharper.user
+*.dbmdl
+*.log
+*.tlog
+*.tdl
+*.cache
+*.aps
+*.bsc
+*.sbr
+*.build.log
+*.docstates
+*.sdf
+*.opensdf
+*.ecomp
+*.vshost.exe
+*.vshost.exe.config
+*.coverage
+*.thp
+*.testsettings
+*.trx
+*.webtest
+*.loadtest
+*.orderedtest
+*.vspscc
+*.vssscc
+*.vsp
+*.codecoverage
+*.mdf
+*.ldf
+*.csproj.user
+*.vbproj.user
+*.xproj.user
+*.publish
+*.db
+*.db-shm
+*.db-wal
+
+# Archivos temporales del sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archivos de ASP.NET Core
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Staging.json
+appsettings.json.user
+appsettings.*.user.json
+*.runtimeconfig.dev.json
+*.user.json
+
+# Dependencias de Node.js (si tu proyecto Blazor usa NPM/Yarn)
+node_modules/
+
+# Archivos de Visual Studio Code (si usas VS Code para este proyecto)
+.vscode/
+
+# Otros archivos comunes generados
+*.[Ss]ervices.json
