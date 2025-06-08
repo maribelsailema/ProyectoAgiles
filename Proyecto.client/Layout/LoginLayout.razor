@@ -1,0 +1,85 @@
+﻿@inherits LayoutComponentBase
+
+<div class="login-layout">
+    @Body
+</div>
+
+<style>
+    body, html {
+        height: 100%;
+        margin: 0;
+        background: linear-gradient(135deg, #a8edea, #fed6e3);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .login-box {
+        background: white;
+        border-radius: 50px;
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+        padding: 60px;
+        width: 150%;
+        max-width: 900px;
+    }
+
+    .login-title {
+        text-align: center;
+        margin-bottom: 1.5rem;
+        font-weight: 700;
+    }
+
+    .login-subtitle {
+        text-align: center;
+        margin-bottom: 2rem;
+        color: #555;
+    }
+
+    .form-group {
+        position: relative;
+        margin-bottom: 1.5rem;
+    }
+
+    .form-label {
+        display: block;
+        margin-bottom: 0.5rem;
+        font-weight: 600;
+    }
+
+    .form-control {
+        border-radius: 10px;
+        padding-left: 2.5rem;
+    }
+
+    .form-group i {
+        position: absolute;
+        top: 45px;
+        left: 12px;
+        color: cadetblue;
+        font-size: 1.2rem;
+    }
+
+    .validation-message {
+        color: crimson;
+        font-size: 0.875rem;
+        margin-top: 0.25rem;
+    }
+
+    .login-button {
+        width: 100%;
+        background-color: #a6ddcb;
+        color: white;
+        border: none;
+        padding: 18px 0;
+        border-radius: 10px;
+        font-weight: 700;
+        font-size: 1rem;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .login-button:hover {
+            background-color: #84d8bc;
+        }
+</style>

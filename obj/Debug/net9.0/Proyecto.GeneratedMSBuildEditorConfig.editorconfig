@@ -24,12 +24,20 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = UHJveWVjdG8uY2xpZW50XEFwcC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/ASUS/Source/Repos/ProyectoAgiles/Proyecto.client/Layout/LoginLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJveWVjdG8uY2xpZW50XExheW91dFxMb2dpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ASUS/Source/Repos/ProyectoAgiles/Proyecto.client/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UHJveWVjdG8uY2xpZW50XFBhZ2VzXENvdW50ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ASUS/Source/Repos/ProyectoAgiles/Proyecto.client/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UHJveWVjdG8uY2xpZW50XFBhZ2VzXEhvbWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Source/Repos/ProyectoAgiles/Proyecto.client/Pages/LoginPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJveWVjdG8uY2xpZW50XFBhZ2VzXExvZ2luUGFnZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ASUS/Source/Repos/ProyectoAgiles/Proyecto.client/Pages/Weather.razor]
