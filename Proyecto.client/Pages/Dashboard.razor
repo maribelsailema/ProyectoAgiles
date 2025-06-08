@@ -1,0 +1,57 @@
+﻿    @page "/dashboard" 
+    @layout DashBoardLayout
+
+    @inject NavigationManager NavigationManager 
+  
+    <PageTitle>Bienvenido, Usuario</PageTitle>
+
+    <div class="page-container">
+        <div class="header">
+            <div class="left-nav">
+                <a href="/dashboard"><i class="fas fa-home"></i> Inicio</a> 
+                <a href="/promocion"><i class="fas fa-arrow-up"></i> Promocion</a>
+                <a href="/perfil"><i class="fas fa-user"></i> Perfil</a>
+            </div>
+            <div class="right-nav">
+                <a href="/logout"><i class="fas fa-sign-out-alt"></i> Cerrar Sesion</a> 
+            </div>
+        </div>
+
+        <div class="main-content">
+            <h3>Bienvenido al Sistema de Gestion de Promociones para Docentes de la FISEI</h3>
+
+            <button class="start-process-button" @onclick="HandleStartProcess">
+                <i class="fas fa-check-square"></i> Iniciar Proceso
+            </button>
+        </div>
+
+        <div class="footer">
+            <div class="footer-section">
+                <h4>Sobre Nosotros</h4>
+                <p>Sistema de Promocion para Docentes de la FISEI. Para agilizar tramites.</p>
+            </div>
+            <div class="footer-section">
+                <h4>Contactos</h4>
+                <p><a href="mailto:support@correo.com">support@correo.com</a></p>
+                <p>+593 99 234 56789</p>
+            </div>
+            <div class="footer-section">
+                <h4>Enlaces Rápidos</h4>
+                <ul>
+                    <li><a href="/dashboard">Inicio</a></li
+                    <li><a href="/promocion">Promocion</a></li>
+                    <li><a href="/perfil">Perfil</a></li>
+                </ul>
+            </div>
+            <div class="copyright">
+                <p>2025 Sistema de Promocion, Todos los Derechos reservados</p>
+            </div>
+        </div>
+    </div>
+
+    @code {
+        private void HandleStartProcess()
+        {
+
+        }
+    }

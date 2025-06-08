@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
+      "Id": "C:\\Users\\ASUS\\Source\\Repos\\ProyectoAgiles\\Proyecto.client\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
       "Id": "C:\\Users\\ASUS\\Source\\Repos\\ProyectoAgiles\\Proyecto.client\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
