@@ -36,28 +36,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XExvZ2luTGF5b3V0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Source/Repos/ProyectoAgiles/Proyecto.client/Pages/Component.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50LnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ASUS/Source/Repos/ProyectoAgiles/Proyecto.client/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[C:/Users/ASUS/Source/Repos/ProyectoAgiles/Proyecto.client/Pages/CursoFrom.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3Vyc29Gcm9tLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ASUS/Source/Repos/ProyectoAgiles/Proyecto.client/Pages/Dashboard.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Source/Repos/ProyectoAgiles/Proyecto.client/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/ASUS/Source/Repos/ProyectoAgiles/Proyecto.client/Pages/LoginPage.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5QYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Source/Repos/ProyectoAgiles/Proyecto.client/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+[C:/Users/ASUS/Source/Repos/ProyectoAgiles/Proyecto.client/Pages/Promocion.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvbW9jaW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Source/Repos/ProyectoAgiles/Proyecto.client/Pages/RecuperarContrasena.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjdXBlcmFyQ29udHJhc2VuYS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Source/Repos/ProyectoAgiles/Proyecto.client/Pages/Registro.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cm8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ASUS/Source/Repos/ProyectoAgiles/Proyecto.client/_Imports.razor]

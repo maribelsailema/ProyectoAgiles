@@ -1,29 +1,15 @@
-﻿<div class="top-row ps-3 navbar navbar-dark">
-    <div class="container-fluid">
-        <span class="navbar-brand">Bienvenido, Usuario</span>
-        <button class="navbar-toggler" @onclick="ToggleNavMenu">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-    </div>
-</div>
-
-<div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
-    <nav class="flex-column">
-        <div class="nav-item px-3">
-            <a class="nav-link" href="/">
-                <span class="oi oi-home" aria-hidden="true"></span> Inicio
-            </a>
-        </div>
-        <div class="nav-item px-3">
-            <a class="nav-link" href="/promocion">
-                <span class="oi oi-badge" aria-hidden="true"></span> Promoción
-            </a>
-        </div>
-        <div class="nav-item px-3">
-            <a class="nav-link" href="/perfil">
-                <span class="oi oi-person" aria-hidden="true"></span> Perfil
-            </a>
-        </div>
+﻿<!-- NavMenu.razor - Reemplazar con: -->
+<div class="d-flex flex-column flex-shrink-0 p-3 bg-light" style="width: 250px; height: 100vh;">
+    <nav class="nav nav-pills flex-column">
+        <a class="nav-link" href="/dashboard">
+            <i class="bi bi-house-door me-2"></i> Inicio
+        </a>
+        <a class="nav-link" href="/promocion">
+            <i class="bi bi-award me-2"></i> Promoción
+        </a>
+        <a class="nav-link" href="/curso-form">
+            <i class="bi bi-person me-2"></i> Formulario 
+        </a>
     </nav>
 </div>
 

@@ -1,0 +1,85 @@
+﻿@page "/registro"
+@layout LoginLayout
+@inject NavigationManager Navigation
+
+<div class="login-box">
+    <h2 class="login-title">Crear cuenta</h2>
+    <p class="login-subtitle">Complete sus datos para registrarse</p>
+
+    <EditForm Model="@RegisterModel" OnValidSubmit="@HandleRegister">
+        <DataAnnotationsValidator />
+
+        <div class="form-group">
+            <label class="form-label">Nombre completo</label>
+            <i class="bi bi-person-fill"></i>
+            <InputText class="form-control" @bind-Value="RegisterModel.FullName" />
+            <ValidationMessage For="@(() => RegisterModel.FullName)" />
+        </div>
+
+        <div class="form-group">
+            <label class="form-label">Correo electrónico</label>
+            <i class="bi bi-envelope-fill"></i>
+            <InputText class="form-control" @bind-Value="RegisterModel.Email" />
+            <ValidationMessage For="@(() => RegisterModel.Email)" />
+        </div>
+
+        <div class="form-group">
+            <label class="form-label">Usuario</label>
+            <i class="bi bi-person-badge-fill"></i>
+            <InputText class="form-control" @bind-Value="RegisterModel.Username" />
+            <ValidationMessage For="@(() => RegisterModel.Username)" />
+        </div>
+
+        <div class="form-group">
+            <label class="form-label">Contraseña</label>
+            <i class="bi bi-lock-fill"></i>
+            <InputText type="password" class="form-control" @bind-Value="RegisterModel.Password" />
+            <ValidationMessage For="@(() => RegisterModel.Password)" />
+        </div>
+
+        <div class="form-group">
+            <label class="form-label">Confirmar contraseña</label>
+            <i class="bi bi-lock-fill"></i>
+            <InputText type="password" class="form-control" @bind-Value="RegisterModel.ConfirmPassword" />
+            <ValidationMessage For="@(() => RegisterModel.ConfirmPassword)" />
+        </div>
+
+        <button type="submit" class="login-button mb-3">Registrarse</button>
+
+        <div class="text-center">
+            <p class="mb-0">¿Ya tiene una cuenta? <a href="/" class="text-decoration-none">Inicie sesión aquí</a></p>
+        </div>
+    </EditForm>
+</div>
+
+@code {
+    private RegisterRequest RegisterModel { get; set; } = new();
+
+    private void HandleRegister()
+    {
+        // Lógica de registro
+        Navigation.NavigateTo("/");
+    }
+
+    public class RegisterRequest
+    {
+        [Required(ErrorMessage = "Ingrese su nombre completo")]
+        public string FullName { get; set; } = string.Empty;
+
+        [Required(ErrorMessage = "Ingrese su correo electrónico")]
+        [EmailAddress(ErrorMessage = "Ingrese un correo válido")]
+        public string Email { get; set; } = string.Empty;
+
+        [Required(ErrorMessage = "Ingrese un nombre de usuario")]
+        [MinLength(4, ErrorMessage = "Mínimo 4 caracteres")]
+        public string Username { get; set; } = string.Empty;
+
+        [Required(ErrorMessage = "Ingrese una contraseña")]
+        [MinLength(6, ErrorMessage = "Mínimo 6 caracteres")]
+        public string Password { get; set; } = string.Empty;
+
+        [Required(ErrorMessage = "Confirme su contraseña")]
+        [Compare(nameof(Password), ErrorMessage = "Las contraseñas no coinciden")]
+        public string ConfirmPassword { get; set; } = string.Empty;
+    }
+}

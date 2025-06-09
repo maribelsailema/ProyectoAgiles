@@ -3,52 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\pages\\recuperarcontrasena.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\pages\\recuperarcontrasena.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\layout\\dashboardlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\layout\\dashboardlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\pages\\registro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\pages\\registro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\pages\\loginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\pages\\loginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\layout\\loginlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\layout\\loginlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\pages\\promocion.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\pages\\promocion.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\pages\\cursofrom.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\pages\\cursofrom.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,20 +59,16 @@
       "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\services\\authmockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Pages\\Component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto.client\\Pages\\Component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\proyecto.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\proyecto.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\layout\\loginlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\layout\\loginlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\layout\\dashboardlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\layout\\dashboardlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\wwwroot\\service-worker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -87,8 +79,28 @@
       "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\wwwroot\\manifest.webmanifest||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\wwwroot\\sample-data\\weather.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\wwwroot\\sample-data\\weather.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\wwwroot\\icon-512.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\wwwroot\\icon-512.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\proyecto.client\\proyecto.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8BB09DE-6041-4670-A9C7-808F096E1701}|Proyecto.client\\Proyecto.client.csproj|solutionrelative:proyecto.client\\proyecto.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DBAD1E5-91F0-4334-B57F-E4A33EC2A9A8}|Proyecto.csproj|c:\\users\\asus\\source\\repos\\proyectoagiles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -142,58 +154,109 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DashBoardLayout.razor",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Source\\Repos\\ProyectoAgiles\\Proyecto.client\\Layout\\DashBoardLayout.razor",
-              "RelativeDocumentMoniker": "Proyecto.client\\Layout\\DashBoardLayout.razor",
-              "ToolTip": "C:\\Users\\ASUS\\Source\\Repos\\ProyectoAgiles\\Proyecto.client\\Layout\\DashBoardLayout.razor",
-              "RelativeToolTip": "Proyecto.client\\Layout\\DashBoardLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "RecuperarContrasena.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Pages\\RecuperarContrasena.razor",
+              "RelativeDocumentMoniker": "Proyecto.client\\Pages\\RecuperarContrasena.razor",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Pages\\RecuperarContrasena.razor",
+              "RelativeToolTip": "Proyecto.client\\Pages\\RecuperarContrasena.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-08T21:57:46.352Z",
+              "WhenOpened": "2025-06-09T03:31:49.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registro.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Pages\\Registro.razor",
+              "RelativeDocumentMoniker": "Proyecto.client\\Pages\\Registro.razor",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Pages\\Registro.razor",
+              "RelativeToolTip": "Proyecto.client\\Pages\\Registro.razor",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T03:23:44.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CursoFrom.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Pages\\CursoFrom.razor",
+              "RelativeDocumentMoniker": "Proyecto.client\\Pages\\CursoFrom.razor",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Pages\\CursoFrom.razor",
+              "RelativeToolTip": "Proyecto.client\\Pages\\CursoFrom.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T03:12:22.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Proyecto.client\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Proyecto.client\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T02:20:18.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "weather.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\wwwroot\\sample-data\\weather.json",
+              "RelativeDocumentMoniker": "Proyecto.client\\wwwroot\\sample-data\\weather.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\wwwroot\\sample-data\\weather.json",
+              "RelativeToolTip": "Proyecto.client\\wwwroot\\sample-data\\weather.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T02:16:56.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "icon-512.png - PNG [512x512, 4 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\wwwroot\\icon-512.png",
+              "RelativeDocumentMoniker": "Proyecto.client\\wwwroot\\icon-512.png",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\wwwroot\\icon-512.png - PNG [512x512, 4 bits, PNG]",
+              "RelativeToolTip": "Proyecto.client\\wwwroot\\icon-512.png - PNG [512x512, 4 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-09T01:51:36.56Z",
+              "EditorCaption": " - PNG [512x512, 4 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Promocion.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Pages\\Promocion.razor",
+              "RelativeDocumentMoniker": "Proyecto.client\\Pages\\Promocion.razor",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Pages\\Promocion.razor",
+              "RelativeToolTip": "Proyecto.client\\Pages\\Promocion.razor",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAIwC8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T00:40:48.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Source\\Repos\\ProyectoAgiles\\Proyecto.client\\Services\\IAuthService.cs",
-              "RelativeDocumentMoniker": "Proyecto.client\\Services\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Source\\Repos\\ProyectoAgiles\\Proyecto.client\\Services\\IAuthService.cs",
-              "RelativeToolTip": "Proyecto.client\\Services\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T21:48:39.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Component.razor",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Pages\\Component.razor",
-              "RelativeDocumentMoniker": "Proyecto.client\\Pages\\Component.razor",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Pages\\Component.razor",
-              "RelativeToolTip": "Proyecto.client\\Pages\\Component.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-08T21:35:02.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "AuthMockService.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Source\\Repos\\ProyectoAgiles\\Proyecto.client\\Services\\AuthMockService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Services\\AuthMockService.cs",
               "RelativeDocumentMoniker": "Proyecto.client\\Services\\AuthMockService.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Source\\Repos\\ProyectoAgiles\\Proyecto.client\\Services\\AuthMockService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Services\\AuthMockService.cs",
               "RelativeToolTip": "Proyecto.client\\Services\\AuthMockService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T21:32:10.568Z",
+              "WhenOpened": "2025-06-09T00:04:51.561Z",
               "EditorCaption": ""
             },
             {
@@ -204,61 +267,61 @@
               "RelativeDocumentMoniker": "Proyecto.client\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\wwwroot\\css\\site.css",
               "RelativeToolTip": "Proyecto.client\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-08T20:27:38.504Z",
+              "WhenOpened": "2025-06-08T23:14:38.816Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dashboard.razor",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Source\\Repos\\ProyectoAgiles\\Proyecto.client\\Pages\\Dashboard.razor",
-              "RelativeDocumentMoniker": "Proyecto.client\\Pages\\Dashboard.razor",
-              "ToolTip": "C:\\Users\\ASUS\\Source\\Repos\\ProyectoAgiles\\Proyecto.client\\Pages\\Dashboard.razor",
-              "RelativeToolTip": "Proyecto.client\\Pages\\Dashboard.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 22,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeDocumentMoniker": "Proyecto.client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeToolTip": "Proyecto.client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ViewState": "AgIAAGoBAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-08T23:06:57.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DashBoardLayout.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Layout\\DashBoardLayout.razor",
+              "RelativeDocumentMoniker": "Proyecto.client\\Layout\\DashBoardLayout.razor",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Layout\\DashBoardLayout.razor",
+              "RelativeToolTip": "Proyecto.client\\Layout\\DashBoardLayout.razor",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwD4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-08T19:52:37.661Z",
+              "WhenOpened": "2025-06-08T23:04:04.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "Proyecto.client\\wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\wwwroot\\index.html",
-              "RelativeToolTip": "Proyecto.client\\wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-06-08T19:22:22.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Weather.razor",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Pages\\Weather.razor",
-              "RelativeDocumentMoniker": "Proyecto.client\\Pages\\Weather.razor",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Pages\\Weather.razor",
-              "RelativeToolTip": "Proyecto.client\\Pages\\Weather.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-08T18:49:48.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "LoginLayout.razor",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Layout\\LoginLayout.razor",
               "RelativeDocumentMoniker": "Proyecto.client\\Layout\\LoginLayout.razor",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Layout\\LoginLayout.razor",
               "RelativeToolTip": "Proyecto.client\\Layout\\LoginLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-08T19:10:06.307Z",
+              "WhenOpened": "2025-06-08T23:04:03.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dashboard.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Pages\\Dashboard.razor",
+              "RelativeDocumentMoniker": "Proyecto.client\\Pages\\Dashboard.razor",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Pages\\Dashboard.razor",
+              "RelativeToolTip": "Proyecto.client\\Pages\\Dashboard.razor",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T23:03:26.727Z",
               "EditorCaption": ""
             },
             {
@@ -269,27 +332,27 @@
               "RelativeDocumentMoniker": "Proyecto.client\\Pages\\LoginPage.razor",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Pages\\LoginPage.razor",
               "RelativeToolTip": "Proyecto.client\\Pages\\LoginPage.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-08T18:56:14.036Z",
+              "WhenOpened": "2025-06-08T23:03:16.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "Proyecto.client\\Pages\\Counter.razor",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Pages\\Counter.razor",
-              "RelativeToolTip": "Proyecto.client\\Pages\\Counter.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-08T18:15:28.189Z",
+              "DocumentIndex": 19,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Proyecto.client\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\wwwroot\\index.html",
+              "RelativeToolTip": "Proyecto.client\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-08T19:22:22.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "manifest.webmanifest",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\wwwroot\\manifest.webmanifest",
               "RelativeDocumentMoniker": "Proyecto.client\\wwwroot\\manifest.webmanifest",
@@ -302,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "service-worker.js",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\wwwroot\\service-worker.js",
               "RelativeDocumentMoniker": "Proyecto.client\\wwwroot\\service-worker.js",
@@ -315,13 +378,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "app.css",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\wwwroot\\css\\app.css",
               "RelativeDocumentMoniker": "Proyecto.client\\wwwroot\\css\\app.css",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\wwwroot\\css\\app.css",
               "RelativeToolTip": "Proyecto.client\\wwwroot\\css\\app.css",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-06-08T18:14:50.91Z",
               "EditorCaption": ""
@@ -341,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -354,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -367,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
@@ -380,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "UsuariosController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
@@ -393,20 +456,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "Proyecto.client\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Pages\\Home.razor",
-              "RelativeToolTip": "Proyecto.client\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-08T15:44:25.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "icon-192.png - PNG [192x192, 8 bits, PNG]",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\wwwroot\\icon-192.png",
               "RelativeDocumentMoniker": "Proyecto.client\\wwwroot\\icon-192.png",
@@ -418,7 +468,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",
@@ -431,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Proyecto.http",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.http",
               "RelativeDocumentMoniker": "Proyecto.http",
@@ -444,46 +494,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "Proyecto.client.csproj",
               "DocumentMoniker": "C:\\Users\\ASUS\\Source\\Repos\\ProyectoAgiles\\Proyecto.client\\Proyecto.client.csproj",
               "RelativeDocumentMoniker": "Proyecto.client\\Proyecto.client.csproj",
               "ToolTip": "C:\\Users\\ASUS\\Source\\Repos\\ProyectoAgiles\\Proyecto.client\\Proyecto.client.csproj",
               "RelativeToolTip": "Proyecto.client\\Proyecto.client.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-06-08T14:37:41.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Proyecto.client\\Layout\\NavMenu.razor",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Layout\\NavMenu.razor",
               "RelativeToolTip": "Proyecto.client\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-08T14:39:57.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Proyecto.client\\Layout\\MainLayout.razor",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Layout\\MainLayout.razor",
               "RelativeToolTip": "Proyecto.client\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-08T14:39:56.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\App.razor",
               "RelativeDocumentMoniker": "Proyecto.client\\App.razor",
@@ -496,33 +546,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 5,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\_Imports.razor",
               "RelativeDocumentMoniker": "Proyecto.client\\_Imports.razor",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\_Imports.razor",
               "RelativeToolTip": "Proyecto.client\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-08T14:39:04.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Program.cs",
               "RelativeDocumentMoniker": "Proyecto.client\\Program.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Proyecto.client\\Program.cs",
               "RelativeToolTip": "Proyecto.client\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T14:37:37.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -535,7 +585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "DiticDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Data\\DiticDbContext.cs",
               "RelativeDocumentMoniker": "Data\\DiticDbContext.cs",
@@ -548,7 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "Proyecto.csproj",
               "DocumentMoniker": "C:\\Users\\ASUS\\Source\\Repos\\ProyectoAgiles\\Proyecto.csproj",
               "RelativeDocumentMoniker": "Proyecto.csproj",
@@ -561,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ProyectoAgiles\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "Models\\Usuario.cs",

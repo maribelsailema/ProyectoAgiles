@@ -1,0 +1,97 @@
+﻿@page "/curso-form"
+@layout MainLayout
+@using System.ComponentModel.DataAnnotations
+@inject NavigationManager Navigation
+@inject HttpClient Http
+
+<div class="form-box">
+    <h2 class="form-title">Agregar / Editar Curso</h2>
+
+    <EditForm Model="@CursoModel" OnValidSubmit="@HandleSubmit">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <div class="form-group">
+            <label class="form-label" for="nombre">Curso</label>
+            <InputText id="nombre" class="form-control" @bind-Value="CursoModel.Nombre" />
+            <ValidationMessage For="@(() => CursoModel.Nombre)" />
+        </div>
+
+        <div class="form-group">
+            <label class="form-label" for="horas">Horas</label>
+            <InputNumber id="horas" class="form-control" @bind-Value="CursoModel.Horas" />
+            <ValidationMessage For="@(() => CursoModel.Horas)" />
+        </div>
+
+        <div class="form-group">
+            <label class="form-label" for="institucion">Institución</label>
+            <InputText id="institucion" class="form-control" @bind-Value="CursoModel.Institucion" />
+            <ValidationMessage For="@(() => CursoModel.Institucion)" />
+        </div>
+
+        <div class="form-group">
+            <label class="form-label" for="fecha">Fecha</label>
+            <InputDate id="fecha" class="form-control" @bind-Value="CursoModel.Fecha" />
+            <ValidationMessage For="@(() => CursoModel.Fecha)" />
+        </div>
+
+        <div class="form-group">
+            <label class="form-label" for="modalidad">Modalidad</label>
+            <InputText id="modalidad" class="form-control" @bind-Value="CursoModel.Modalidad" />
+            <ValidationMessage For="@(() => CursoModel.Modalidad)" />
+        </div>
+
+        <div class="form-group">
+            <label class="form-label" for="archivo">Tipo Archivo</label>
+            <InputFile id="archivo" OnChange="OnFileChange" />
+        </div>
+        <br>
+        <div class="form-buttons">
+            <button type="button" class="btn btn-secondary" @onclick="Cancelar">Cancelar</button>
+            <button type="submit" class="btn btn-primary">Agregar</button>
+        </div>
+    </EditForm>
+</div>
+
+@code {
+    private CursoRequest CursoModel { get; set; } = new();
+    private IBrowserFile? ArchivoSeleccionado;
+
+    private async Task HandleSubmit()
+    {
+        // Aquí podrías enviar el modelo a tu API
+        // await Http.PostAsJsonAsync("api/cursos", CursoModel);
+
+        Navigation.NavigateTo("/dashboard");
+    }
+
+    private void Cancelar()
+    {
+        Navigation.NavigateTo("/dashboard");
+    }
+
+    private void OnFileChange(InputFileChangeEventArgs e)
+    {
+        ArchivoSeleccionado = e.File;
+        // Opcional: subir archivo o convertirlo a base64
+    }
+
+    public class CursoRequest
+    {
+        [Required(ErrorMessage = "El nombre del curso es obligatorio")]
+        public string Nombre { get; set; } = string.Empty;
+
+        [Required(ErrorMessage = "Las horas son obligatorias")]
+        [Range(1, 1000, ErrorMessage = "Debe ser entre 1 y 1000 horas")]
+        public int Horas { get; set; }
+
+        [Required(ErrorMessage = "La institución es obligatoria")]
+        public string Institucion { get; set; } = string.Empty;
+
+        [Required(ErrorMessage = "La fecha es obligatoria")]
+        public DateTime Fecha { get; set; } = DateTime.Today;
+
+        [Required(ErrorMessage = "La modalidad es obligatoria")]
+        public string Modalidad { get; set; } = string.Empty;
+    }
+}
